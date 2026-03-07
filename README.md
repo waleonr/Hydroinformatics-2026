@@ -57,3 +57,18 @@ This repository serves as:
 - A structured record of course tasks  
 - A collection of computational experiments in hydroinformatics  
 - A reference implementation of statistical and mathematical methods applied to hydrosystems
+
+## Authors
+
+**William Alfonso León Rueda**
+
+Research interests include:
+
+- Hydroinformatics
+- Spatial modeling
+- Climate change vulnerability and resilience
+- Machine learning for environmental systems
+
+**Co-author**
+
+- Gomez Latorre, Douglas Andrés
