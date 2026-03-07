@@ -65,8 +65,8 @@ This repository serves as:
 
 ## Authors
 
-- **William Alfonso León Rueda**
-- **Douglas Andrés Gomez Latorre**
+- **William Alfonso León Rueda** - <waleonr@unal.edu.co> 
+- **Douglas Andrés Gomez Latorre** - <doagomezla@unal.edu.co>
 
 Research interests include:
 
