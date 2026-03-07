@@ -61,6 +61,7 @@ This repository serves as:
 ## Authors
 
 **William Alfonso León Rueda**
+**Douglas Andrés Gomez Latorre**
 
 Research interests include:
 
@@ -68,7 +69,3 @@ Research interests include:
 - Spatial modeling
 - Climate change vulnerability and resilience
 - Machine learning for environmental systems
-
-**Co-author**
-
-- Gomez Latorre, Douglas Andrés
