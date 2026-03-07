@@ -60,8 +60,8 @@ This repository serves as:
 
 ## Authors
 
-**William Alfonso León Rueda**
-**Douglas Andrés Gomez Latorre**
+- **William Alfonso León Rueda**
+- **Douglas Andrés Gomez Latorre**
 
 Research interests include:
 
