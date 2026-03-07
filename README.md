@@ -2,7 +2,8 @@
 
 This repository contains the codes, notebooks, and analyses developed as part of the Hydroinformatics course tasks. The material focuses on the application of mathematical, statistical, and computational tools for the analysis and modeling of hydrosystems.
 
-<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/c8f593d9-7694-4b3f-bce9-eaddec61adc9" />
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/29438d85-021e-4a9a-911d-a5410c0590fc" />
+
 
 
 Due to the size of some datasets and outputs, the repository is organized by tasks, and large files may not be included directly in the repository.
