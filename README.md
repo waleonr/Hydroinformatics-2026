@@ -1,4 +1,4 @@
-# Hydroinformatics – Course Tasks Repository
+# Hydroinformatics – Course Assignment Repository
 
 This repository contains the codes, notebooks, and analyses developed as part of the Hydroinformatics course tasks. The material focuses on the application of mathematical, statistical, and computational tools for the analysis and modeling of hydrosystems.
 
