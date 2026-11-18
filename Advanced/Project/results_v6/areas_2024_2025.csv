@@ -1,0 +1,145 @@
+Window,Model,Class,ha_2024,ha_2025_raw,ha_2025_filtered,filtered_change_ha
+ventana_altillanura_gaitan,RF,Forest,1534.23,1815.9299999999998,1529.28,-4.9500000000000455
+ventana_altillanura_gaitan,RF,Flooded forest,4399.29,4300.11,4408.0199999999995,8.729999999999563
+ventana_altillanura_gaitan,RF,Flooded grassland,666.72,965.52,711.99,45.26999999999998
+ventana_altillanura_gaitan,RF,Grassland/savanna,12480.48,11187.359999999999,12193.109999999999,-287.3700000000008
+ventana_altillanura_gaitan,RF,Farming,17820.18,18417.059999999998,17969.219999999998,149.03999999999724
+ventana_altillanura_gaitan,RF,Plantations,471.06,573.5699999999999,554.22,83.16000000000003
+ventana_altillanura_gaitan,RF,Non-vegetated,535.5,471.15,527.4,-8.100000000000023
+ventana_altillanura_gaitan,RF,Water,2012.58,2189.34,2026.8,14.220000000000027
+ventana_altillanura_gaitan,CNN3D2D,Forest,838.17,1184.6699999999998,924.66,86.49000000000001
+ventana_altillanura_gaitan,CNN3D2D,Flooded forest,4754.61,4606.47,4764.78,10.170000000000073
+ventana_altillanura_gaitan,CNN3D2D,Flooded grassland,875.16,1315.26,944.91,69.75
+ventana_altillanura_gaitan,CNN3D2D,Grassland/savanna,9655.56,8882.73,9405.0,-250.5599999999995
+ventana_altillanura_gaitan,CNN3D2D,Farming,20636.37,20586.059999999998,20677.05,40.68000000000029
+ventana_altillanura_gaitan,CNN3D2D,Plantations,631.8,635.9399999999999,629.91,-1.8899999999999864
+ventana_altillanura_gaitan,CNN3D2D,Non-vegetated,574.11,532.17,574.38,0.2699999999999818
+ventana_altillanura_gaitan,CNN3D2D,Water,1954.26,2176.74,1999.35,45.08999999999992
+ventana_altillanura_gaitan,ViT,Forest,1886.76,2331.54,1908.1799999999998,21.419999999999845
+ventana_altillanura_gaitan,ViT,Flooded forest,4498.38,4191.12,4490.01,-8.36999999999989
+ventana_altillanura_gaitan,ViT,Flooded grassland,1036.98,1253.61,1061.37,24.389999999999873
+ventana_altillanura_gaitan,ViT,Grassland/savanna,13274.73,12483.18,13111.83,-162.89999999999964
+ventana_altillanura_gaitan,ViT,Farming,15874.109999999999,15989.039999999999,15993.9,119.79000000000087
+ventana_altillanura_gaitan,ViT,Plantations,718.8299999999999,786.6899999999999,694.17,-24.659999999999968
+ventana_altillanura_gaitan,ViT,Non-vegetated,572.49,531.09,561.78,-10.710000000000036
+ventana_altillanura_gaitan,ViT,Water,2057.7599999999998,2353.77,2098.7999999999997,41.039999999999964
+ventana_altillanura_gaitan,Hybrid,Forest,1664.82,1977.9299999999998,1717.9199999999998,53.09999999999991
+ventana_altillanura_gaitan,Hybrid,Flooded forest,4863.15,4870.26,4864.05,0.9000000000005457
+ventana_altillanura_gaitan,Hybrid,Flooded grassland,891.0,1098.72,907.1999999999999,16.199999999999932
+ventana_altillanura_gaitan,Hybrid,Grassland/savanna,13056.75,12322.17,12986.46,-70.29000000000087
+ventana_altillanura_gaitan,Hybrid,Farming,15823.349999999999,15872.67,15832.71,9.360000000000582
+ventana_altillanura_gaitan,Hybrid,Plantations,888.93,922.3199999999999,889.8299999999999,0.8999999999999773
+ventana_altillanura_gaitan,Hybrid,Non-vegetated,661.77,631.62,632.0699999999999,-29.700000000000045
+ventana_altillanura_gaitan,Hybrid,Water,2070.27,2224.35,2089.7999999999997,19.529999999999745
+ventana_altillanura_gaitan,Ensemble,Forest,1605.24,2021.04,1681.6499999999999,76.40999999999985
+ventana_altillanura_gaitan,Ensemble,Flooded forest,4719.69,4587.48,4715.46,-4.229999999999563
+ventana_altillanura_gaitan,Ensemble,Flooded grassland,1001.0699999999999,1339.9199999999998,1071.27,70.20000000000005
+ventana_altillanura_gaitan,Ensemble,Grassland/savanna,12360.15,11556.63,12155.939999999999,-204.21000000000095
+ventana_altillanura_gaitan,Ensemble,Farming,16916.22,16850.88,16936.649999999998,20.429999999996653
+ventana_altillanura_gaitan,Ensemble,Plantations,721.4399999999999,771.2099999999999,718.8299999999999,-2.6100000000000136
+ventana_altillanura_gaitan,Ensemble,Non-vegetated,554.5799999999999,549.27,564.5699999999999,9.990000000000009
+ventana_altillanura_gaitan,Ensemble,Water,2041.6499999999999,2243.61,2075.67,34.02000000000021
+ventana_altillanura_gaitan,Ensemble4,Forest,1570.59,2005.9199999999998,1633.77,63.180000000000064
+ventana_altillanura_gaitan,Ensemble4,Flooded forest,4678.5599999999995,4533.84,4676.04,-2.519999999999527
+ventana_altillanura_gaitan,Ensemble4,Flooded grassland,989.0999999999999,1357.74,1064.79,75.69000000000005
+ventana_altillanura_gaitan,Ensemble4,Grassland/savanna,12330.0,11324.97,12040.02,-289.97999999999956
+ventana_altillanura_gaitan,Ensemble4,Farming,17133.75,17212.23,17226.0,92.25
+ventana_altillanura_gaitan,Ensemble4,Plantations,632.43,717.2099999999999,661.77,29.340000000000032
+ventana_altillanura_gaitan,Ensemble4,Non-vegetated,543.78,524.43,537.12,-6.659999999999968
+ventana_altillanura_gaitan,Ensemble4,Water,2041.83,2243.7,2080.5299999999997,38.69999999999982
+ventana_piedemonte_palma,RF,Forest,1442.97,1204.6499999999999,1442.97,0.0
+ventana_piedemonte_palma,RF,Flooded forest,4423.59,4546.26,4423.41,-0.18000000000029104
+ventana_piedemonte_palma,RF,Flooded grassland,10.53,12.51,10.53,0.0
+ventana_piedemonte_palma,RF,Grassland/savanna,3.42,0.72,3.42,0.0
+ventana_piedemonte_palma,RF,Farming,27115.649999999998,27403.379999999997,27112.14,-3.5099999999983993
+ventana_piedemonte_palma,RF,Plantations,5738.219999999999,5555.79,5745.599999999999,7.380000000000109
+ventana_piedemonte_palma,RF,Non-vegetated,427.05,276.03,363.15,-63.900000000000034
+ventana_piedemonte_palma,RF,Water,758.61,920.6999999999999,818.8199999999999,60.20999999999992
+ventana_piedemonte_palma,CNN3D2D,Forest,680.13,573.66,687.06,6.92999999999995
+ventana_piedemonte_palma,CNN3D2D,Flooded forest,4825.17,4908.87,4828.139999999999,2.969999999999345
+ventana_piedemonte_palma,CNN3D2D,Flooded grassland,9.09,66.87,27.0,17.91
+ventana_piedemonte_palma,CNN3D2D,Grassland/savanna,0.72,14.219999999999999,7.02,6.3
+ventana_piedemonte_palma,CNN3D2D,Farming,27425.52,27392.309999999998,27307.89,-117.63000000000102
+ventana_piedemonte_palma,CNN3D2D,Plantations,5749.29,5726.61,5829.12,79.82999999999993
+ventana_piedemonte_palma,CNN3D2D,Non-vegetated,454.85999999999996,268.28999999999996,345.51,-109.34999999999997
+ventana_piedemonte_palma,CNN3D2D,Water,775.26,969.2099999999999,888.3,113.03999999999996
+ventana_piedemonte_palma,ViT,Forest,888.03,571.9499999999999,902.61,14.580000000000041
+ventana_piedemonte_palma,ViT,Flooded forest,5049.72,5751.54,5052.0599999999995,2.339999999999236
+ventana_piedemonte_palma,ViT,Flooded grassland,21.15,67.32,23.58,2.4299999999999997
+ventana_piedemonte_palma,ViT,Grassland/savanna,4.14,8.64,4.859999999999999,0.7199999999999998
+ventana_piedemonte_palma,ViT,Farming,25659.09,25438.23,25674.84,15.75
+ventana_piedemonte_palma,ViT,Plantations,6974.099999999999,6764.94,6941.5199999999995,-32.57999999999993
+ventana_piedemonte_palma,ViT,Non-vegetated,408.06,244.53,307.44,-100.62
+ventana_piedemonte_palma,ViT,Water,915.75,1072.8899999999999,1013.13,97.38
+ventana_piedemonte_palma,Hybrid,Forest,1101.69,1011.87,1146.06,44.36999999999989
+ventana_piedemonte_palma,Hybrid,Flooded forest,5703.57,6691.5,5706.54,2.9700000000002547
+ventana_piedemonte_palma,Hybrid,Flooded grassland,27.72,124.11,59.129999999999995,31.409999999999997
+ventana_piedemonte_palma,Hybrid,Grassland/savanna,10.98,7.109999999999999,10.799999999999999,-0.1800000000000015
+ventana_piedemonte_palma,Hybrid,Farming,26213.399999999998,25774.829999999998,26193.329999999998,-20.06999999999971
+ventana_piedemonte_palma,Hybrid,Plantations,5552.01,4973.76,5474.969999999999,-77.04000000000087
+ventana_piedemonte_palma,Hybrid,Non-vegetated,382.59,258.84,322.74,-59.849999999999966
+ventana_piedemonte_palma,Hybrid,Water,928.0799999999999,1078.02,1006.4699999999999,78.38999999999999
+ventana_piedemonte_palma,Ensemble,Forest,932.13,646.38,951.8399999999999,19.709999999999923
+ventana_piedemonte_palma,Ensemble,Flooded forest,5049.179999999999,5542.29,5046.21,-2.969999999999345
+ventana_piedemonte_palma,Ensemble,Flooded grassland,21.24,94.95,40.589999999999996,19.349999999999998
+ventana_piedemonte_palma,Ensemble,Grassland/savanna,3.78,3.42,3.06,-0.7199999999999998
+ventana_piedemonte_palma,Ensemble,Farming,26481.87,26239.68,26375.76,-106.11000000000058
+ventana_piedemonte_palma,Ensemble,Plantations,6153.84,6095.07,6208.92,55.07999999999993
+ventana_piedemonte_palma,Ensemble,Non-vegetated,399.33,251.64,309.33,-90.0
+ventana_piedemonte_palma,Ensemble,Water,878.67,1046.61,984.3299999999999,105.65999999999997
+ventana_piedemonte_palma,Ensemble4,Forest,1101.69,773.73,1107.72,6.029999999999973
+ventana_piedemonte_palma,Ensemble4,Flooded forest,4894.83,5332.41,4892.76,-2.069999999999709
+ventana_piedemonte_palma,Ensemble4,Flooded grassland,22.14,68.94,29.97,7.829999999999998
+ventana_piedemonte_palma,Ensemble4,Grassland/savanna,1.26,0.99,1.26,0.0
+ventana_piedemonte_palma,Ensemble4,Farming,26611.559999999998,26526.42,26551.71,-59.849999999998545
+ventana_piedemonte_palma,Ensemble4,Plantations,6028.469999999999,5930.55,6058.44,29.970000000000255
+ventana_piedemonte_palma,Ensemble4,Non-vegetated,407.78999999999996,260.55,319.05,-88.73999999999995
+ventana_piedemonte_palma,Ensemble4,Water,852.3,1026.45,959.13,106.83000000000004
+ventana_sabana_inundable,RF,Forest,11.969999999999999,15.03,11.969999999999999,0.0
+ventana_sabana_inundable,RF,Flooded forest,1493.55,1392.3,1486.71,-6.839999999999918
+ventana_sabana_inundable,RF,Flooded grassland,23647.59,24267.87,23763.149999999998,115.55999999999767
+ventana_sabana_inundable,RF,Grassland/savanna,622.62,251.28,621.27,-1.3500000000000227
+ventana_sabana_inundable,RF,Farming,13905.9,13777.47,13795.019999999999,-110.88000000000102
+ventana_sabana_inundable,RF,Plantations,1.17,0.36,1.17,0.0
+ventana_sabana_inundable,RF,Non-vegetated,23.4,16.74,22.86,-0.5399999999999991
+ventana_sabana_inundable,RF,Water,213.84,198.98999999999998,217.89,4.049999999999983
+ventana_sabana_inundable,CNN3D2D,Forest,29.79,14.85,28.619999999999997,-1.1700000000000017
+ventana_sabana_inundable,CNN3D2D,Flooded forest,1367.46,1075.95,1362.87,-4.5900000000001455
+ventana_sabana_inundable,CNN3D2D,Flooded grassland,26306.1,26569.98,26653.41,347.3100000000013
+ventana_sabana_inundable,CNN3D2D,Grassland/savanna,38.339999999999996,90.17999999999999,41.76,3.4200000000000017
+ventana_sabana_inundable,CNN3D2D,Farming,11928.42,11963.88,11590.83,-337.59000000000015
+ventana_sabana_inundable,CNN3D2D,Plantations,1.7999999999999998,3.69,2.07,0.27
+ventana_sabana_inundable,CNN3D2D,Non-vegetated,15.479999999999999,12.6,13.32,-2.1599999999999984
+ventana_sabana_inundable,CNN3D2D,Water,232.64999999999998,188.91,227.16,-5.489999999999981
+ventana_sabana_inundable,ViT,Forest,43.379999999999995,37.89,43.379999999999995,0.0
+ventana_sabana_inundable,ViT,Flooded forest,1361.8799999999999,1190.43,1355.04,-6.839999999999918
+ventana_sabana_inundable,ViT,Flooded grassland,27026.55,28080.629999999997,27217.53,190.97999999999956
+ventana_sabana_inundable,ViT,Grassland/savanna,447.47999999999996,313.2,453.51,6.03000000000003
+ventana_sabana_inundable,ViT,Farming,10707.93,10010.789999999999,10515.15,-192.78000000000065
+ventana_sabana_inundable,ViT,Plantations,53.37,45.54,56.339999999999996,2.969999999999999
+ventana_sabana_inundable,ViT,Non-vegetated,9.45,3.96,8.549999999999999,-0.9000000000000004
+ventana_sabana_inundable,ViT,Water,270.0,237.6,270.53999999999996,0.5399999999999636
+ventana_sabana_inundable,Hybrid,Forest,25.56,9.18,26.279999999999998,0.7199999999999989
+ventana_sabana_inundable,Hybrid,Flooded forest,1489.95,1347.75,1485.0,-4.9500000000000455
+ventana_sabana_inundable,Hybrid,Flooded grassland,23918.76,24562.35,24293.61,374.8500000000022
+ventana_sabana_inundable,Hybrid,Grassland/savanna,209.07,258.65999999999997,213.57,4.5
+ventana_sabana_inundable,Hybrid,Farming,13905.18,13435.109999999999,13542.84,-362.34000000000015
+ventana_sabana_inundable,Hybrid,Plantations,31.32,5.22,27.72,-3.6000000000000014
+ventana_sabana_inundable,Hybrid,Non-vegetated,8.459999999999999,4.59,8.459999999999999,0.0
+ventana_sabana_inundable,Hybrid,Water,331.74,297.18,322.56,-9.180000000000007
+ventana_sabana_inundable,Ensemble,Forest,43.92,32.67,43.92,0.0
+ventana_sabana_inundable,Ensemble,Flooded forest,1451.4299999999998,1276.74,1449.0,-2.4299999999998363
+ventana_sabana_inundable,Ensemble,Flooded grassland,25829.73,26433.27,26196.57,366.84000000000015
+ventana_sabana_inundable,Ensemble,Grassland/savanna,121.05,163.62,118.53,-2.519999999999996
+ventana_sabana_inundable,Ensemble,Farming,12179.43,11766.51,11822.13,-357.3000000000011
+ventana_sabana_inundable,Ensemble,Plantations,16.74,3.42,16.74,0.0
+ventana_sabana_inundable,Ensemble,Non-vegetated,8.1,3.8699999999999997,7.109999999999999,-0.9900000000000002
+ventana_sabana_inundable,Ensemble,Water,269.64,239.94,266.03999999999996,-3.6000000000000227
+ventana_sabana_inundable,Ensemble4,Forest,33.839999999999996,22.23,33.839999999999996,0.0
+ventana_sabana_inundable,Ensemble4,Flooded forest,1478.25,1331.82,1474.9199999999998,-3.3300000000001546
+ventana_sabana_inundable,Ensemble4,Flooded grassland,25264.17,25782.57,25573.86,309.6900000000023
+ventana_sabana_inundable,Ensemble4,Grassland/savanna,178.10999999999999,167.85,177.48,-0.6299999999999955
+ventana_sabana_inundable,Ensemble4,Farming,12681.27,12372.3,12374.91,-306.3600000000006
+ventana_sabana_inundable,Ensemble4,Plantations,7.83,1.53,7.83,0.0
+ventana_sabana_inundable,Ensemble4,Non-vegetated,6.66,4.32,7.02,0.35999999999999943
+ventana_sabana_inundable,Ensemble4,Water,269.90999999999997,237.42,270.18,0.27000000000003865
