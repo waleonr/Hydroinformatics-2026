@@ -1,0 +1,31 @@
+@RELATION riesgo_hidrico_orinoquia
+
+@ATTRIBUTE Amenaza_hidroclimatica {Alta,Baja,Media}
+@ATTRIBUTE Exposicion_poblacional {Alta,Baja,Media}
+@ATTRIBUTE Capacidad_adaptativa {Alta,Baja,Media}
+@ATTRIBUTE Uso_del_suelo {Agricola,Ganadero,Natural,Urbano}
+@ATTRIBUTE Nivel_riesgo_hidrico {Alto,Bajo,Medio}
+
+@DATA
+Alta,Alta,Baja,Ganadero,Alto
+Alta,Alta,Media,Agricola,Alto
+Alta,Media,Baja,Agricola,Alto
+Alta,Baja,Baja,Natural,Medio
+Alta,Alta,Alta,Urbano,Medio
+Alta,Media,Alta,Urbano,Medio
+Alta,Baja,Media,Natural,Bajo
+Media,Alta,Baja,Ganadero,Alto
+Media,Alta,Media,Agricola,Medio
+Media,Media,Baja,Agricola,Medio
+Media,Media,Media,Ganadero,Medio
+Media,Baja,Alta,Natural,Bajo
+Media,Baja,Media,Urbano,Bajo
+Media,Alta,Alta,Urbano,Medio
+Baja,Alta,Baja,Agricola,Medio
+Baja,Media,Media,Ganadero,Bajo
+Baja,Baja,Baja,Natural,Bajo
+Baja,Baja,Alta,Urbano,Bajo
+Baja,Media,Alta,Natural,Bajo
+Baja,Alta,Alta,Urbano,Bajo
+Alta,Media,Baja,Ganadero,Alto
+Media,Alta,Baja,Agricola,Alto
