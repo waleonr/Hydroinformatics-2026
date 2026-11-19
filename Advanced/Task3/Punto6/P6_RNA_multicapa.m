@@ -1,6 +1,4 @@
 %% PUNTO 6 — Red neuronal artificial CON capa oculta (perceptrón multicapa 3-H-1)
-% Hidroinformática Avanzada · Tarea 3 · Autor: Douglas A. Gómez-Latorre
-% Problema y tabla de patrones: los mismos del punto 5 (tabla_patrones_Zr1.0.csv).
 % Algoritmo: retropropagación con la regla delta generalizada, actualización por patrón,
 % sigmoide en la capa oculta y en la salida, con momento.
 %
