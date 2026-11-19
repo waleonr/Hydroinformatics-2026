@@ -1,5 +1,4 @@
 %% PUNTO 5 — Red neuronal artificial SIN capa oculta (perceptrón simple, salida sigmoide)
-% Hidroinformática Avanzada · Tarea 3 · Autor: Douglas A. Gómez-Latorre
 % Problema: riesgo de estrés hídrico del maíz en Tibaitatá, R_{t+1} = 1 - Ks (FAO-56)
 % Entradas: fD_t, ET0_{t+1}, P_{t+1}.  Archivos: tabla_patrones_Zr1.0.csv,
 % serie_diaria_procesada_Zr1.0.csv (solo para el experimento de sobreentrenamiento).
